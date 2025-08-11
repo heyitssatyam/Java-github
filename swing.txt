@@ -1,0 +1,15 @@
+Swing is a framework that provides
+more powerful and flexible GUI components than does the AWT. As a result, it is the GUI
+that has been widely used by Java programmers for more than a decade.
+
+Swing Is Built on the AWT
+Swing eliminates
+a number of the limitations inherent in the AWT, Swing does not replace it. Instead, Swing is
+built on the foundation of the AWT. This is why the AWT is still a crucial part of Java.
+
+The MVC connection
+
+Model - View 
+the model corresponds to the state information
+associated with the component. For example, in the case of a check box, the model contains
+a field that indicates if the box is checked or unchecked.
